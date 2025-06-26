@@ -11,7 +11,6 @@ public class testBaru {
 }
 
 
-//System.out.println(nama.toUpperCase(Locale.ROOT));
 //System.out.println(nama.toLowerCase(Locale.ROOT));
 //System.out.println(nama.concat("gans"));
 //System.out.println(nama.charAt(1));
